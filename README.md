@@ -7,5 +7,4 @@
 
 > 📫 How to reach me:   Gmail : kanaklataslakkawar@gmail.com
 
-                         Linkedin : https://www.linkedin.com/in/kanaklata-lakkawar-55442121b
-
+                        Linkedin : https://www.linkedin.com/in/kanaklata-lakkawar-55442121b
