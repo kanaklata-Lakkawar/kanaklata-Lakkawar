@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **JAVA Fullstack Development**
 
-- 💬 Ask me about **C,C++,Core Java HTML and CSS**
+- 💬 Ask me about **Java, JSP, Servlet, JDBC, Hibernate, Spring, MySQL, HTML and CSS**
 
 - 📫 How to reach me **kanaklataslakkawar@gmail.com**
 
