@@ -1,6 +1,7 @@
 <h1 align="center">Hi there! 👋 I'm Kanaklata Lakkawar</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kanaklata-lakkawar&label=Profile%20views&color=0e75b6&style=flat" alt="kanaklata-lakkawar" /> </p>
 <p>I'm passionate about Java Fullstack Development and constantly exploring new technologies in this field. Here's a glimpse of what I'm up to:</p>
+
 - 🌱 Currently diving deep into **JAVA Fullstack Development**
 
 - 💬 Ask me about **Java, JSP, Servlet, JDBC, Hibernate, Spring, MySQL, HTML, and CSS**
